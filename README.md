@@ -1,1 +1,1 @@
-# spark-bigquery
+# SPARK JDBC BigQuery Connector
